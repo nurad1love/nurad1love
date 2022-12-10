@@ -1,5 +1,5 @@
 <h1>
-  hey there ✌️
+  Hi 👋
 </h1>
 
 Regular college student, currently intern at a Flutter developer 📖
