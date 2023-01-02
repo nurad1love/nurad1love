@@ -1,8 +1,8 @@
 <h1>
-  Hi 👋
+  Hi there ✌️
 </h1>
 
-Sophomore college student, currently intern at a Flutter developer 📖
+I'm sophomore college student, currently intern at a Flutter developer 📖
 
 ### 🔹 Stats :
 
