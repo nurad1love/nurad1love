@@ -6,7 +6,7 @@ I'm sophomore college student, currently intern at a Flutter developer 📖
 
 ### 🔹 Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nurad1love=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nurad1love&theme=dark&hide_border=true&border_radius=4.7&locale=ru)](https://git.io/streak-stats)
 
 ### 🔹 Learning :
 <div>
