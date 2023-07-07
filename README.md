@@ -2,7 +2,7 @@
   Hi there ✌️
 </h1>
 
-I'm sophomore college student, currently intern at a Flutter developer 📖
+I'm a student, currently intern at a Flutter developer 📖
 
 ### 🔹 Stats :
 
